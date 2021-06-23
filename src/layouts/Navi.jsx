@@ -3,7 +3,7 @@ import React from 'react'
 export default function Navi() {
     return (
         <div>
-            sepet özeti    
+            sepet özeti    sdas
         </div> 
     )
 }
